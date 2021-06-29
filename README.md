@@ -1,3 +1,3 @@
 # Guess_The_Number
 
-__C++ kullanılarak random üretilen sayı tahmini oyunudur. Tahmin ve doğru sayıyı bulmaya göre puanlanarak __TXT dosyasına kayıt edilir.
+__C++__ kullanılarak algoritmik olarak kurulan yapıda random üretilen sayı tahmini oyunudur. Tahmin ve doğru sayıyı bulmaya göre puanlanarak __TXT__ dosyasına kayıt edilir.
